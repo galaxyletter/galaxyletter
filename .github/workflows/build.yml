@@ -20,6 +20,6 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           yarn install
-      - name: Build Vuepress Site
+      - name: Build Gatsby Site
         run: |
           yarn run build
