@@ -1,16 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Galaxy Letter`,
-    name: `Galaxy Letter`,
-    siteUrl: `https://galaxyletter.com`,
-    description: `My Journey Towards Obliterating the Galaxy`,
+    title: `Blog Template`,
+    name: `Blog Template`,
+    siteUrl: `https://template.blog.shunkakinoki.com`,
+    description: `Blog Template`,
     hero: {
-      heading: `My Journey Towards Obliterating the Galaxy.`,
+      heading: `Blog Template`,
       maxWidth: 652,
     },
     social: [{
       name: `github`,
-      url: `https://github.com/shunkakinoki`,
+      url: `https://github.com/shunkakinoki-blog/template`,
     }],
   },
   plugins: [{
@@ -37,6 +37,13 @@ module.exports = {
         theme_color: `#fff`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-134813374-11",
+        anonymize: true,
       },
     },
   ],

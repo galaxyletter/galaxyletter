@@ -1,5 +1,5 @@
-- name: Shun Kakinoki
-  bio: Engineer, Evangelist, Future-Entrepreneur
+- name: Example Author
+  bio: Example Author
   avatar: ./avatars/dennis-brotzky.jpg
   featured: true
   social:
