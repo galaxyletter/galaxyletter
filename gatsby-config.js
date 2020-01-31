@@ -49,7 +49,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-mailchimp",
       options: {
-        endpoint: "https://laravelista.us3.list-manage.com/subscribe/post?u=f7be246192e99544e6a92ef70&amp;id=9824b15791",
+        endpoint: "https://shunkakinoki.us4.list-manage.com/subscribe/post?u=12161f05e225d968a8366de58&amp;id=65c5673d05",
       },
     },
   ],
