@@ -46,5 +46,11 @@ module.exports = {
         anonymize: true,
       },
     },
+    {
+      resolve: "gatsby-plugin-mailchimp",
+      options: {
+        endpoint: "https://laravelista.us3.list-manage.com/subscribe/post?u=f7be246192e99544e6a92ef70&amp;id=9824b15791",
+      },
+    },
   ],
 };
