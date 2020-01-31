@@ -2,6 +2,7 @@
   bio: Example Author
   avatar: ./avatars/dennis-brotzky.jpg
   featured: true
+  slug: shunkakinoki
   social:
     - name: github
       url: https://github.com/shunkakinoki
