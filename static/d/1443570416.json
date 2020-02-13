@@ -1,1 +1,1 @@
-{"data":{"allSite":{"edges":[{"node":{"id":"Site","siteMetadata":{"name":"Blog Template","social":[{"url":"https://github.com/shunkakinoki-blog/template","name":"github"}]}}}]},"allMdx":{"edges":[{"node":{"id":"170f8593-79c7-5804-bebe-2f3648bca16e","frontmatter":{"date":"2020-01-01T00:00:00.000Z"}}}]}}}
+{"data":{"allSite":{"edges":[{"node":{"siteMetadata":{"name":"Blog Template","social":[{"url":"https://github.com/shunkakinoki-blog/template","name":"github"}]}}}]},"allMdx":{"edges":[{"node":{"frontmatter":{"date":"2020-01-01T00:00:00.000Z"}}}]}}}
